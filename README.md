@@ -21,16 +21,24 @@ This is an interactive multiplayer dice game tournament written in Python. The p
 
 ## How to Run
 
-How to Run
-Download or Clone the Repository
-Make sure you have the latest version of the repository on your computer.
+1. *Download or Clone the Repository*  
+   Make sure you have the latest version of the repository on your computer.
 
-Locate the dicegame.exe File
-Find dicegame.exe inside the repository folder.
+2. **Locate the dicegame.exe File**  
+   Find dicegame.exe inside the repository folder.
 
-Run the Application
+3. *Run the Application*
+   - Double-click dicegame.exe to start the game.
+   - Or, open a command prompt/terminal, navigate to the repository folder, and type:
+     
+     dicegame.exe
+     
+   - Press Enter.
 
-Double-click dicegame.exe to start the game.
+4. *Start Playing*
+   - Enter player names (comma-separated) as prompted.
+5. *Enter the number of rounds or use the default (10 rounds).*
+6. *Follow on-screen instructions to play, view results, and replay or exit.*
 
 ## Customization
 
